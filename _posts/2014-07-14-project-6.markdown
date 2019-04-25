@@ -1,0 +1,16 @@
+---
+title: Data Visualization
+subtitle: Where is the Happiness?
+layout: default
+modal-id: 8
+date: 2019-04-02
+img: Map.png
+thumbnail: Map.png
+project-date: April 2019
+category: Source
+link: https://www.kaggle.com/unsdsn/world-happiness
+link2: https://www.kaggle.com/unsdsn/world-happiness
+git: https://ejlittle25.github.io/NewData/
+description: Shows a visualization of a countries happiness score alongside a graph depicting how GDP and Family status affects happiness.
+
+---

@@ -1,0 +1,19 @@
+---
+title: Blog Post 4
+subtitle: Chance Operations
+layout: default
+modal-id: 5
+date: 2019-02-10
+img: TimeOut.png
+thumbnail: TimeOut.png
+alt: image-alt
+img2: arp.png
+project-date: February 2019
+category: Blog Post
+link: https://dorothysantos.com/tag/ogrydziak-prillinger-architects/
+link2: https://meganudell.wordpress.com/2015/08/19/chance-operations-in-art-and-music%E2%80%A8/
+git: https://github.com/EJLittle25/FourthBlogUpdated/blob/master/FourthBlogPost.md
+description: The first art piece I studied is called Time Out/Temps Mort by Zoë Prillinger & Luke Ogrydziak. This was programmed in C++ and used randomness in order to create the figure shown below. I chose this piece because it looks as if a group of swirls and lines was expanding out from the center then all of a sudden it just stops as if someone took an image of it frozen in time. It looks as if otherwise it would keep expanding and filling any void that the squiggles could flood into. I think that this concept is very cool and it definitely helps bring meaning to the pieces name “Time Out.” It is also intriguing to think about the fact that this piece was created randomly and if the program was ran again, it could have created a completely different shape. I also enjoyed the fact that the program was taken from the computer and made into a sculpture because as Matt stated in class, it is often hard to take things off the screen.
+description2: The second art piece “Untitled (Collage with Squares Arranged according to the Laws of Chance)” by Jean Arp. Many artists have claimed that Arp created these collages by “by tearing paper into pieces, dropping them onto a larger sheet, and pasting each scrap wherever it happened to fall.” While this is a different kind of chance operations that Time Out/Temps Mort, it is still chance because Arp could not have predicted where these squares would fall. They would have fallen in a completely different arrangement if he were to drop the squares on the canvas. This gives this the collage a very unique arrangement. I also appreciate the fact that the colors used are rather basic, but Arp is able to still able to make them pop.
+
+---

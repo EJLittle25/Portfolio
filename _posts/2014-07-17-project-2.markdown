@@ -1,0 +1,18 @@
+---
+title: Blog Post 2
+subtitle: New Media Art
+layout: default
+modal-id: 2
+date: 2019-01-16
+img: FrogPond.jpg
+thumbnail: FrogPond.jpg
+alt: image-alt
+img2: Butterfly.jpg
+project-date: January 2019
+category: Blog Post
+link: http://evapapamargariti.tumblr.com/post/157102809810/still-from-upcoming-film
+link2: http://evapapamargariti.tumblr.com/post/166141937620/work-in-progress-for-music-video-for-jean-benoit
+git: https://github.com/EJLittle25/MySecondBlogPost/blob/master/SecondBlogPost.md
+description: For this class session, I decided to focus on pieces done by Eva Papamargariti. She is an artist that focuses on CGI and 3D rendering to create her work. Through films, stills, and music videos, Papamargariti displays her work. From landscapes to distorted images, her CGI work spans a wide range and helps her new media art stand. I chose this art piece as a result of the frog juxtaposed in front of a human. I think that the human is placed in a position that would resemble that of a frog. I think that this shows the similarity between animals and humans in a way that often isn't portrayed in graphci design. I also like how the human is designed to look as if he/she were a piece of nature. He looks as if he is a rock covered with moss which I think is a unique way of portraying humans as pieces of nature. Additionally, the water on which these creatures are perched is well detailed in terms of the relfections and ripples. I chose this work because the fact that it was done on a computer is very impressive to me because of the details of this work with regards to color and texture. Users are expected to simply look and enjoy this piece.
+description2: This is another work produced by Eva Papamargariti. I chose this art piece because I loved the colors in the work. I feel that there is almost a sort of "electricity" to this art piece. This is due to the the red streaks that go across the picture. I think that positioning the butterfly in the middle of the screen draws attention to itself and both the colors in the picture. I believe that for many people, this may cause them to miss out on the background where many colors lie. There are blues and greens in the background and I think this is a very cool part of the work of art. Due to the fact that this will be a shot of a music video, I think it will be part of the experience of that music video.
+---

@@ -1,0 +1,16 @@
+---
+title: Interactive Piece
+subtitle: Mosaic Etch a Sketch!
+layout: default
+modal-id: 6
+date: 2019-02-20
+img: Snippet.png
+thumbnail: Snippet.png
+
+project-date: February 2019
+category: Inspiration
+link: https://www.youtube.com/watch?v=oVRR4gbO5BU
+link2: https://www.youtube.com/watch?v=HvAjKeWjQCg
+git: https://github.com/EJLittle25/InteractionFinalProject
+description: This piece was inspired by a post that I saw on Twitter earlier in the week. My original thought was to create a meteor shower that individuals could interact with, but I felt that there was not my desired level of creativity present. Upon scrolling through Twitter, I came across a post of someone who created Lebron James' face out of rubix cubes. I thought this was not only very resourceful and creative, but I really liked how the artworked looked also mosaic. Due to this, I decided to create a piece that utilizes this same mosaic pattern as this Lebron James piece. Not only did I want the piece to be mosaic, but I also wanted the piece to be interactive. I wanted individuals to be able to create their own designs simply by clicking or dragging different tiles. I also incorporated sliders and the ability to clear the grid in order to give individuals a deeper sense of control over their canvas. This allows for both creative patters and childlike designs to be crafted by the user as they please.
+---

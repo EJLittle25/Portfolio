@@ -1,0 +1,42 @@
+url: https://y7kim.github.io
+baseurl: /agency-jekyll-theme/
+
+# Site settings
+title: Eric Little's Portfolio
+email: Eric.J.Little@duke.edu
+description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
+
+
+# Team names, titles and social links
+people:
+
+- name: Eric Little
+  pic: 3
+  position: Duke University Sophomore
+  social:
+    - title: twitter
+      url: https://twitter.com/ejlittle25
+    - title: facebook
+      url: https://www.facebook.com/profile.php?id=100015712270996&ref=bookmarks
+    - title: github
+      url: https://github.com/EJLittle25
+
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+social:
+  - title: twitter
+    url: https://twitter.com/ejlittle25
+  - title: facebook
+    url: https://www.facebook.com/profile.php?id=100015712270996&ref=bookmarks
+  - title: instagram
+    url: https://www.instagram.com/ejlittle25/?hl=en
+  - title: github
+    url: https://github.com/EJLittle25
+
+# Postal address (add as many lines as necessary)
+address:
+  - line: 315 Towerview Road Crowell DD
+  - line: Durham, NC 27708
+
+# Build settings
+markdown: kramdown
+permalink: pretty

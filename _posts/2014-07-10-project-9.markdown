@@ -1,0 +1,16 @@
+---
+title: The Making of Duke Men's Basketball's Media Presence
+subtitle: Final Project
+layout: default
+modal-id: 10
+date: 2019-04-25
+img: DukeMBB.png
+thumbnail: DukeMBB.png
+
+project-date: April 2019
+category: Learn More
+link: https://frntofficesport.com/kings-of-the-court-how-duke-basketball-has-continued-to-excel-on-social-media/
+link2: https://www.youtube.com/watch?v=HvAjKeWjQCg
+git: https://ejlittle25.github.io/Project1Revamp-Project4/
+description: Final Project detailing the success of Duke Men's Basketball's social media presence.
+---
